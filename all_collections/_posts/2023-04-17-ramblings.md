@@ -2,7 +2,7 @@
 layout: post
 title: Daily Ramblings
 date: 2023-04-17
-categories: ["daily", "first post"]
+categories: ["first post"]
 ---
 
 ### Getting Started Writing
