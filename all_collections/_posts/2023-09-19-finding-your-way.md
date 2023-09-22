@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finding Your Way
-date: 2023-09-20
+date: 2023-09-19
 categories: ["bitcoin", "freedom"]
 ---
 
