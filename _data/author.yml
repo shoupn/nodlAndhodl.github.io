@@ -2,22 +2,17 @@ name: Nick Shoup
 dp: https://avatars.githubusercontent.com/u/12935770?s=400&u=e0da894c04529c3572e5ffa0bd9c03f3310b3e9f
 description: "
   <p>
-    Nick is a backend software engineer at Amboss Technologies and Bitcoin Maxi. He's interested in the lightning network, bitcoin development and NOSTR. 
-
+    Nick is a devoted father and husband, driven by a profound curiosity about the world and its inhabitants. Professionally, he excels as a software engineer with a keen focus on Bitcoin technology. His expertise extends to the Lightning Network and lends an interest to layer 2 solutions, reflecting his deep interest in enhancing Bitcoin's scalability and functionality.
   </p>
   <br/>
   <p>
-    You should follow him on <a href='https://github.com/shoupn' target='_blank'>Github</a> or reach out to him on the below platforms. 
+    You should follow him on <a href='https://github.com/nodlandhodl' target='_blank'>Github</a> or reach out to him on the below platforms. 
   </P>
 "
 email: shoupnb@proton.me
 contact:
-  - title: linkedin
-    url: https://www.linkedin.com/in/nickshoup/
   - title: github
-    url: https://github.com/shoupn
-  - title: twitter
-    url: https://twitter.com/NodlAndHodl
+    url: https://github.com/nodlandhodl
   - title: email
     url: mailto:shoupnb@proton.me
   - title: nostr
