@@ -2,7 +2,7 @@
 layout: post
 title: End The Fed
 date: 2024-06-14
-block-height: 846498
+block-height: 847943
 categories: ["bitcoin", "central banking", "money"]
 ---
 
