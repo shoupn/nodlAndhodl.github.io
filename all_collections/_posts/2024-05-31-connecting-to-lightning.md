@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Connecting to an Lightning Node via gRPC
-block-height: 845910
+title: Connecting to a Lightning Node via gRPC
+block-height: 845916
 categories: ["lightning", "technology", "bitcoin"]
 ---
 
@@ -48,7 +48,7 @@ This is a pretty good primer on that library and hopefully gives you some help i
 Let's use .NET 8 as an example. I've written a simple application in it using this technique for acting as a proxy for lightning payments. This however is a bit more complicated to setup.
 
 In your project file you'll need to add a few nuget packages. Notice the `Google.protobuf`, `Grpc.Net.Client` and `Grpc.Tool` packages. These are what we need to create our `gRPC` client and then the
-group containing the relative paths to `.proto` files. These files contain the definitions or interface for the exposed `gRPC` methods of our node. Please feel free to look at the official [documentation](https://grpc.io/docs/what-is-grpc/introduction/) for an overvie of gRPC and protocol buffers. That's a bit outside the scope here.
+group containing the relative paths to `.proto` files. These files contain the definitions or interface for the exposed `gRPC` methods of our node. Please feel free to look at the official [documentation](https://grpc.io/docs/what-is-grpc/introduction/) for an overview of gRPC and protocol buffers. That's a bit outside the scope here.
 
 ```xml
 <Project Sdk="Microsoft.NET.Sdk.Web">
@@ -128,7 +128,7 @@ The first thing we'll need to do is create the grpc channel. I am using the file
     }
 ```
 
-Following that we have a valid channel that can be used in our application. In my application, I created two seperate clients to interact with my node, but you can create one like this
+Following that we have a valid channel that can be used in our application. In my application, I created two separate clients to interact with my node, but you can create one like this
 
 ```c#
     public Invoices.InvoicesClient GetInvoiceClient()
