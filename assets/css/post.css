@@ -230,4 +230,5 @@ main {
   height: 300px; /* Set a fixed height */
   object-fit: cover; /* Crop the image to cover the box */
   overflow: hidden; /* Hide the parts of the image that don't fit in the box */
+ border-radius: 20px  !important; /* Round the corners */
 }
