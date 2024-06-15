@@ -7,6 +7,13 @@
       <section class="article">
         <div class="article-header">
           <h2 class="article-title">{{page.title}}</h2>
+          {% if page.header_image %}
+          <img
+            src="{{page.header_image}}"
+            alt="{{page.title}}"
+            class="header-image"
+          />
+          {% endif %} 
           {% if page.block-height %}
           <small class="text">block-height {{page.block-height}}</small>
           {% endif %}
