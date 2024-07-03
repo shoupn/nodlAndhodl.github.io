@@ -9,7 +9,7 @@ categories: ["programming", "bitcoin", "NBitcoin"]
 
 ### Sending to a Legacy Address from NBitcoin
 
-This is more of a curiosity than anything. I have been dotnet developer for a few years and love C#. I've actually looked at the library for interacting with the Bitcoin network before but never really did anything with it. So this will likely be part one of a series on working with it. I have use `bitcoinjs` n the past but find that `NBitcoin` is more supported at least as far as more recent commits and is what is used in BTCPay Server. At this point I will be using `Regtest` and likely move to using some `TestNet` coins that I have.
+This is more of a curiosity than anything. I have been dotnet developer for a few years and love C#. I've actually looked at the library for interacting with the Bitcoin network before but never really did anything with it. So this will likely be part one of a series on working with it. I have use `bitcoinjs` n the past but find that `NBitcoin` is more supported at least as far as more recent commits and is what is used in BTCPay Server. At this point I will be using `Regtest` and likely move to using some `TestNet` coins that I have. For the [github gist](https://gist.github.com/nodlAndHodl/43306e4e9bc069f41eb5f68cf298c2eb)
 
 ### Getting Setup?
 
